@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Anastasios Theodoropoulos"
-  avatar : "/assets/images/.jpg"
+  avatar : "/assets/images/profile_01.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
