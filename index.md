@@ -5,3 +5,6 @@
 layout: home
 author_profile: true
 ---
+
+I am a PhD student of Astrophysics in the University of Valencia. My research interests are in the area of Astrophysics. My main projects are:
+- Generative model for the postmerger signal of BNS merger.
