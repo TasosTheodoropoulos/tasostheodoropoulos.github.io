@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Anastasios Theodoropoulos"
   avatar : "/assets/images/profile_01.jpg"
-  bio    : " Graduate student in Astrophysics"
+  bio    : " Graduate student in Astrophysics interested in gravitational waves."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
