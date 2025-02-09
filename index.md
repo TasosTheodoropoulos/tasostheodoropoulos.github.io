@@ -7,7 +7,10 @@ author_profile: true
 ---
 <img src="/assets/images/research.png" width="420px" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" /> 
 
+<p style="text-align: justify; line-height: 1.6;">
 I am a **PhD student** of Astrophysics in the University of Valencia. My research interests are in the area of Astrophysics. My main projects are:
+</p>
+
 - Generative model for the postmerger signal of BNS merger.
 - Project 2
 - Project 3
