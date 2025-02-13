@@ -3,12 +3,14 @@ permalink: /presentations/
 title: "Presentations"
 layout: archive
 ---
-
+---
+640χ480
+---
 
 - Journal club (07/10/24)
 
 "Gravitational wave emission from type-Ia Supernovae"
-<iframe src="https://drive.google.com/file/d/1laeS0cWo7iFSiSTQ17JM39MSc3TPOLlW/preview" width="320" height="180" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1laeS0cWo7iFSiSTQ17JM39MSc3TPOLlW/preview" width="300" height="180" allow="autoplay"></iframe>
 
 - CoCoNut meeting 2024
 
