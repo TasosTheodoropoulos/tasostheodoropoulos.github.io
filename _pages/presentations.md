@@ -5,9 +5,7 @@ layout: archive
 ---
 
 
-- Presentation 1.
-
-Journal club (07/10/24)
+- Journal club (07/10/24)
 
 Gravitational wave emission from type-Ia Supernovae
 
