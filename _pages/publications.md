@@ -16,7 +16,7 @@ toc_icon: "gear"
         <strong>The Hubble tension, the M crisis of late time H(z) deformation models and the reconstruction of quintessence Lagrangians</strong><br>
         <em>with L. Perivolaropoulos</em><br>
         Universe 7 (2021) 8, 300<br>
-          Links: <a href="https://arxiv.org/abs/2109.06256">Preprint</a> & <a href="https://doi.org/10.1142/S0218202519500325">Journal</a>
+          Links: <a href="https://arxiv.org/abs/2109.06256">Preprint</a> & <a href="https://www.mdpi.com/2218-1997/7/8/300">Journal</a>
         <br clear="left"/>
         <hr />
         <br clear="left"/>
