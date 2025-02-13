@@ -3,9 +3,6 @@ permalink: /presentations/
 title: "Presentations"
 layout: archive
 ---
----
-640χ480
----
 
 - Journal club (07/10/24)
 
