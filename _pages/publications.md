@@ -17,7 +17,7 @@ toc_icon: "gear"
         <strong>NRSurNN3dq4: A Deep Learning Powered Numerical Relativity Surrogate for Binary Black Hole Waveforms</strong><br>
         <em> Osvaldo Gramaxo Freitas, <strong>Anastasios Theodoropoulos<strong>, Nino Villanueva, Tiago Fernandes, Solange Nunes et al.</em><br>
         Submitted (2024)<br>
-        Links: <a href="https://arxiv.org/abs/2412.06946">Preprint</a> 
+          Links: <a href="https://arxiv.org/abs/2412.06946">Preprint</a> 
         <br clear="left"/>
         <hr />
     </li>
@@ -29,8 +29,6 @@ toc_icon: "gear"
         <em>with L. Perivolaropoulos</em><br>
         Universe 7 (2021) 8, 300<br>
           Links: <a href="https://arxiv.org/abs/2109.06256">Preprint</a> & <a href="https://www.mdpi.com/2218-1997/7/8/300">Journal</a>
-        <br clear="left"/>
-        <hr />
         <br clear="left"/>
         <hr />
     </li>
