@@ -8,7 +8,7 @@ layout: archive
 - Journal club (07/10/24)
 
 "Gravitational wave emission from type-Ia Supernovae"
-<iframe src="https://drive.google.com/file/d/1laeS0cWo7iFSiSTQ17JM39MSc3TPOLlW/preview" width="640" height="360" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1laeS0cWo7iFSiSTQ17JM39MSc3TPOLlW/preview" width="80" height="45" allow="autoplay"></iframe>
 
 - CoCoNut meeting 2024
 
