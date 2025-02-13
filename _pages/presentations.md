@@ -1,7 +1,15 @@
 ---
 permalink: /presentations/
 title: "Presentations"
+layout: archive
+classes: wide
+sitemap: true
+author_profile: true
+toc: true
+toc_label: "Category"
+toc_icon: "gear"
 ---
+
 
 - Presentation 1.
 
