@@ -1,9 +1,9 @@
 main:
-  - title: "Presentations"
-    url: /presentations/
-  - title: "Projects"
-    url: /projects/
   - title: "Posts"
     url: /posts/
+  - title: "Projects"
+    url: /projects/
+  - title: "Presentations"
+    url: /presentations/
   - title: "Publications"
     url: /publications/
