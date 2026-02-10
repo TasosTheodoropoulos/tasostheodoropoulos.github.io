@@ -1,0 +1,29 @@
+<div class="pub-entry">
+  {% if include.image %}
+  <div class="pub-thumb">
+    <img src="{{ include.image }}" alt="{{ include.title }} preview">
+  </div>
+  {% endif %}
+  <div class="pub-details">
+    <h3 class="pub-title">{{ include.title }}</h3>
+    <p class="pub-authors">{{ include.authors }}</p>
+    <p class="pub-venue">{{ include.venue }}</p>
+    <div class="pub-links">
+      {% if include.preprint %}
+        <a href="{{ include.preprint }}" class="btn btn--primary btn--small" target="_blank" rel="noopener">
+          <i class="fas fa-file-alt"></i> Preprint
+        </a>
+      {% endif %}
+      {% if include.journal %}
+        <a href="{{ include.journal }}" class="btn btn--info btn--small" target="_blank" rel="noopener">
+          <i class="fas fa-book"></i> Journal
+        </a>
+      {% endif %}
+      {% if include.code %}
+        <a href="{{ include.code }}" class="btn btn--dark btn--small" target="_blank" rel="noopener">
+          <i class="fab fa-github"></i> Code
+        </a>
+      {% endif %}
+    </div>
+  </div>
+</div>
